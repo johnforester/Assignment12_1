@@ -6,7 +6,8 @@
 
 A simple VR maze. The goal is to get to the Win Zone.
 
-Other otes:
+Other notes:
+- Use the left trigger button to teleport
 - Two keys
 - Outdoor terrain made with Unity's terrain tool
 - The Roman Pavillion is back! https://assetstore.unity.com/packages/3d/environments/historic/rome-pack-stylized-low-poly-151874
